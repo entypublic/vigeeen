@@ -934,8 +934,8 @@ function openGame(game) {
             other: 'minesnew/Mines.html'
         },
         queen: {
-            ios: 'https://entyludik.github.io/queez/',
-            other: 'https://entyludik.github.io/queez/'
+            ios: 'queen/index.html',
+            other: 'queen/index.html'
         },
         chick: {
             ios: 'chick/index.html',
